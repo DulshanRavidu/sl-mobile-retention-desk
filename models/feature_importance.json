@@ -1,0 +1,17 @@
+{
+  "tenure_months": 0.10537528029222366,
+  "days_since_last_topup": 0.08655726370031123,
+  "monthly_bill_lkr": 0.07051066273068926,
+  "voice_minutes": 0.06778099239806322,
+  "avg_topup_lkr": 0.06776986387120487,
+  "data_usage_gb": 0.06597290303436824,
+  "age": 0.06343446416027756,
+  "support_calls_3m": 0.05625841929239703,
+  "sms_count": 0.05363040546015093,
+  "received_competitor_offer": 0.05266048669772268,
+  "network_drop_events": 0.04505419708453982,
+  "contract_months": 0.030856411156925383,
+  "has_family_bundle": 0.020617032956992784,
+  "has_ott_addon": 0.01763747505886644,
+  "is_rural_district": 0.015039802965905288
+}
