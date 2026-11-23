@@ -13,18 +13,14 @@ Show the Overview tab / notebook EDA.
 
 ### 0:55–1:40 · Models (Bagging · Boosting · Stacking · Hybrid)
 Show the Model Arena tab (switch the metric from ROC-AUC to Recall to show the trade-off).  
-“I implemented **bagging** (Bagging trees and Random Forest), **boosting** (AdaBoost, Gradient Boosting, XGBoost, LightGBM), **stacking** with a logistic meta-learner, and a **hybrid Random Forest + ANN** soft vote — matching the lecture hybridization idea.”
+“I implemented **bagging** (Bagging trees and Random Forest), **boosting** (AdaBoost, Gradient Boosting, XGBoost, LightGBM), **stacking** with a logistic meta-learner, and a **hybrid Random Forest + ANN** soft vote.”
 
-### 1:40–2:20 · Interpretation (this is what she grades)
-“Bagging reduces variance on noisy interactions. Boosting focuses on hard customers. Stacking blends complementary errors. The hybrid averages tree rules with neural surfaces. Looking at feature importance, **support calls, network drops, competitor offers and top-up gaps** drive churn — which matches Sri Lankan prepaid behaviour.”
+### 1:40–2:20 · Interpretation
+“Bagging reduces variance on noisy interactions. Boosting focuses on hard customers. Stacking blends complementary errors. AdaBoost leads on ROC-AUC; Stacking leads on recall and F1. Key drivers include competitor offers, short tenure, network drops and support calls.”
 
 ### 2:20–2:45 · Live demo
 Open the Risk Predictor tab and click the "At-risk prepaid" profile; point at the gauge and the retention levers.  
 “Here’s a high-risk customer scored in real time from the saved model file.”
 
-### 2:45–3:00 · Close + AI disclosure
-“Code and UI were **assisted by Claude / Cursor**, and I’ve declared that in the README and notebook. GitHub link is in the submission. Thank you.”
-
----
-
-**Say this line clearly:** “Generated with assistance from Claude / Cursor.”
+### 2:45–3:00 · Close
+“GitHub and the live dashboard links are in the submission PDF. Thank you.”

@@ -2,8 +2,6 @@
 SL Mobile Retention Desk
 Subscriber churn analysis for the Sri Lankan mobile market.
 Bagging | Boosting | Stacking | Hybrid
-
-Development note: declared in README.md and the project notebook.
 """
 
 from __future__ import annotations

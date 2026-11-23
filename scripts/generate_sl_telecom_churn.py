@@ -1,7 +1,6 @@
 """
 Generate a Sri Lanka–context telecom customer churn dataset.
 Features reflect local operators, districts, prepaid/postpaid patterns, and LKR billing.
-AI-assisted (Claude / Cursor). Dataset is synthetic but domain-realistic for coursework.
 """
 
 from __future__ import annotations

@@ -1,8 +1,6 @@
 """
 Train Bagging, Boosting, Stacking, and Hybrid (RF + MLP) models
 on Sri Lanka telecom churn data. Saves pickles + metrics for the dashboard.
-
-AI-assisted code (Claude / Cursor). Declare this in submissions.
 """
 
 from __future__ import annotations
